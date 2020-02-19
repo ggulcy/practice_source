@@ -23,9 +23,8 @@
         
 ###### Kotlin Extension 사용하여 binding , 클릭시 EditText String 받아와 ToastMsg Show 
 
-# 영상 들어갈 자리 
-
-
+![btn_gif](https://user-images.githubusercontent.com/60222655/74815504-b222f500-533c-11ea-9a12-b47e3b2270a8.gif)
+![edit_gif](https://user-images.githubusercontent.com/60222655/74815492-b0593180-533c-11ea-9c6d-6035ac16adb2.gif)
 
 
 #### RecyclerView 
@@ -59,7 +58,7 @@
     }
     //..
 
-# 영상 들어갈자리 
+![recycler_gif](https://user-images.githubusercontent.com/60222655/74815503-b222f500-533c-11ea-90aa-f80b54041cf0.gif)
 
 
 #### ViewPager Tab 
@@ -67,7 +66,7 @@
 ###### 뷰페이저(ViewPager)는 데이터를 페이지 단위로 표시하고, 좌/우 뒤집기(flip)을 통해 페이지를 전환할 수 있도록 만들어주는 컨테이너
 ###### TabLayout과 혼합하여 스와이프가 가능한 탭 화면을 구성 가능 
 
-# 영상 들어갈 자리
+![pager_gif](https://user-images.githubusercontent.com/60222655/74815501-b18a5e80-533c-11ea-99bd-db80ea7c7c9c.gif)
 
 
 #### Custom Menu
@@ -101,5 +100,4 @@
         })
         //..
         
-       
-# 영상 들어갈 자리    
+![menu](https://user-images.githubusercontent.com/60222655/74815499-b18a5e80-533c-11ea-995e-a4ab3929a453.gif)
