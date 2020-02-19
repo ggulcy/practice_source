@@ -22,8 +22,6 @@ class MenuActivity : AppCompatActivity() {
             draw_layout.openDrawer(draw_view)
         }
 
-
-
         draw_layout.addDrawerListener(object : DrawerListener {
             override fun onDrawerStateChanged(newState: Int) {
             }

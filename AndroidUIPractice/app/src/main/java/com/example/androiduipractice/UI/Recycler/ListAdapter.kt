@@ -25,13 +25,11 @@ class ListAdapter constructor() : RecyclerView.Adapter<ListAdapter.CustomViewHol
     override fun getItemCount(): Int = collection.size
 
     override fun onBindViewHolder(holder: CustomViewHolder, position: Int) {
-
         val data = collection[position]
         holder.apply {
             itemView.setOnClickListener {
                 onItemClick?.invoke(data)
             }
-
             with(data){
                 tvTitle.text = title
                 tvContent.text = content

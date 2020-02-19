@@ -15,15 +15,11 @@ class EditTextActivity : AppCompatActivity(){
         btn.setOnClickListener {
 
             var text = edit_text.text
-
             if(text.isNotEmpty())
                 Toast.makeText(this@EditTextActivity,text,Toast.LENGTH_LONG).show()
             else
                 Toast.makeText(this@EditTextActivity,"Empty text!!",Toast.LENGTH_SHORT).show()
         }
-
-
-
 
     }
 }

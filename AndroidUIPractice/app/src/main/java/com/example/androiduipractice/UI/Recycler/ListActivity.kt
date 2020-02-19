@@ -20,10 +20,7 @@ class ListActivity : AppCompatActivity(){
                 Toast.makeText(this@ListActivity, it.title+"을 눌렀습니다",Toast.LENGTH_LONG).show()
             }
         }
-
         listAdapter.collection = setData()
-
-
         btn_add.setOnClickListener {
             listAdapter.addItem(
                 addData()
