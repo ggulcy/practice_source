@@ -26,14 +26,6 @@ class MainPresenter constructor(mainView: MainView){
             }
 
         }
-
         view?.showResult("${bugger.bread} 빵의 ${bugger.petty} 햄버거가 만들어졌습니다")
-
-
-
     }
-
-
-
-
 }

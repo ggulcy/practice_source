@@ -36,18 +36,12 @@ class MainActivity : AppCompatActivity() {
 
             }
         }
-
-
-
         btn_make.setOnClickListener {
-
-
             tv_result.run {
                 when {
                     bugger.petty == null -> text = "petty를 선택해주세요 "
                     bugger.bread == null -> text = "bread를 선택해주세요"
                     else -> text = bugger.bread.toString() + " 빵의 " + bugger.petty.toString() + " 햄버거가 만들어졌습니다"
-
                 }
             }
         }
