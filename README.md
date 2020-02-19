@@ -4,11 +4,14 @@
 #### Button & EditText Event
 
         //Button Event
+        //..
         btn.setOnClickListener {
                 Toast.makeText(this@ButtonActivity,"Button Clicked",Toast.LENGTH_LONG).show()
         }
+        //..
 
         //EditText Event
+        //..
         btn.setOnClickListener {
             var text = edit_text.text
             if(text.isNotEmpty())
@@ -16,6 +19,7 @@
             else
                 Toast.makeText(this@EditTextActivity,"Empty text!!",Toast.LENGTH_SHORT).show()
         }
+        //..
         
 ###### Kotlin Extension 사용하여 binding , 클릭시 EditText String 받아와 ToastMsg Show 
 
@@ -31,13 +35,16 @@
 ###### 뷰홀더(화면에 표시될 아이템 뷰를 저장하는 객체) & 어댑터 패턴을 사용 
 
     //Custom View Holder
+    //..
     inner class CustomViewHolder(parent:ViewGroup) : RecyclerView.ViewHolder(
         LayoutInflater.from(parent.context).inflate(R.layout.item_list,parent,false)){
         val tvTitle = itemView.title
         val tvContent = itemView.content
     }
+    //..
     
     // onBindViewHolder
+    //..
         override fun onBindViewHolder(holder: CustomViewHolder, position: Int) {
         val data = collection[position]
         holder.apply {
@@ -50,6 +57,7 @@
             }
         }
     }
+    //..
 
 # 영상 들어갈자리 
 
@@ -60,3 +68,38 @@
 ###### TabLayout과 혼합하여 스와이프가 가능한 탭 화면을 구성 가능 
 
 # 영상 들어갈 자리
+
+
+#### Custom Menu
+###### Drawerlayout을 이용한 CustomMenue구성
+    // activity_menu.xml
+    //..
+    <include layout="@layout/menu_drawer"/>
+    //..
+    
+    
+    //activity_menu.kt
+    
+    //..
+        ic_menu.setOnClickListener {
+            draw_layout.openDrawer(draw_view)
+        }
+
+        draw_layout.addDrawerListener(object : DrawerListener {
+            override fun onDrawerStateChanged(newState: Int) {
+            }
+
+            override fun onDrawerSlide(drawerView: View, slideOffset: Float) {
+            }
+
+            override fun onDrawerClosed(drawerView: View) {
+            }
+
+            override fun onDrawerOpened(drawerView: View) {
+            }
+
+        })
+        //..
+        
+       
+# 영상 들어갈 자리    
