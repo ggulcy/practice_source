@@ -5,7 +5,7 @@
 ![hambugger](https://user-images.githubusercontent.com/60222655/74834482-d2fc4200-535e-11ea-9926-d8b4ede42824.gif)
 
 
-#### MVC Model
+#### 1. MVC Model
 
 ###### 사용자의 Input이 Controller에 전달
 ###### Controller는 사용자의 Input을 확인하고 Model을 업데이트 
@@ -28,7 +28,7 @@
             
             
 
-#### MVP Model
+#### 2. MVP Model
 ###### 사용자의 Input이 View를 통해 들어옴 
 ###### View는 데이터를 Presenter에 요청 
 ###### Presneter는 Model에게 데이터를 요청 
@@ -63,7 +63,7 @@
       //..
       
       
-#### MVVM Model
+#### 3. MVVM Model
 ###### 사용자의 Input이 View를 통해 들어옴
 ###### View에 Action이 들어오면, Command 패턴으로 View Model에 Input을 전달합니다.
 ###### View Model은 Model에게 데이터를 요청합니다.
