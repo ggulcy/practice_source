@@ -26,8 +26,6 @@ object NetworkModule {
     private fun provideGson(): Gson {
         return GsonBuilder().create()
     }
-
-
     private fun provideOkHttpClient(): OkHttpClient {
         return OkHttpClient.Builder()
             .connectTimeout(CONNECT_TIMEOUT, TimeUnit.SECONDS)
