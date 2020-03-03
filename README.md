@@ -1,3 +1,10 @@
+
+### 코딩테스트 문제 풀이 
+#### #1 모의고사 (프로그래머스 Lv1)
+문제 https://programmers.co.kr/learn/courses/30/lessons/42840
+
+
+
 ### Kotlin Practice Source
 
 
@@ -51,4 +58,7 @@
                 setDisplayHomeAsUpEnabled(true)
             }
         }
+
+
+
 
