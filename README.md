@@ -1,5 +1,5 @@
 
-### 코딩테스트 문제 풀이 
+### - 코딩테스트 문제 풀이 
 
 ##### #1 모의고사 (프로그래머스 Lv1) [문제링크](https://programmers.co.kr/learn/courses/30/lessons/42840)
 ##### #2 체육복 (프로그래머스 Lv1) [문제링크](https://programmers.co.kr/learn/courses/30/lessons/42862)
@@ -8,7 +8,7 @@
 ##### #5 2016년 (프로그래머스 Lv1) [문제링크](https://programmers.co.kr/learn/courses/30/lessons/12901)
 
 ###
-### Kotlin Practice Source
+### - Kotlin Practice Source
 
 
 #### #1 유용한 함수들
