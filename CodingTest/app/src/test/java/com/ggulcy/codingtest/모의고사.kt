@@ -4,7 +4,7 @@ import org.junit.Test
 import kotlin.random.Random
 
 
-class MocExam{
+class 모의고사{
     @Test
     fun 모의고사() {
         // 1번 수포자 1,2,3,4,5 ...

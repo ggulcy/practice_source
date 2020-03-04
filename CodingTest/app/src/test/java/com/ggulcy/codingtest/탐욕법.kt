@@ -5,7 +5,7 @@ import java.util.*
 import kotlin.random.Random
 
 
-class Greedy{
+class 탐욕법{
 
 
     @Test
