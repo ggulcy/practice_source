@@ -1,4 +1,4 @@
-package com.ggulcy.codingtest
+package com.ggulcy.codingtest.level1
 
 import org.junit.Test
 
@@ -9,20 +9,17 @@ import org.junit.Assert.*
  *
  * See [testing documentation](http://d.android.com/tools/testing).
  */
-class 두정수의합 {
+class 수박수박수박 {
     @Test
     fun main() {
+        var n = 3
 
-        var a = 5
-        var b= 3
+        var answer = ""
+        for(i in 0 until n) {
+            answer += if(i % 2 == 1) "박"
+            else "수"
+        }
 
-        var answer:Long = 0
-
-        if(a>=b) for(i in b..a) answer+=i
-        else for(i in a..b) answer+=i
-
-
-        println(answer)
 
     }
 }

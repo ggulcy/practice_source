@@ -1,7 +1,6 @@
-package com.ggulcy.codingtest
+package com.ggulcy.codingtest.level1
 
 import org.junit.Test
-import java.util.*
 import kotlin.random.Random
 
 
@@ -55,7 +54,7 @@ class 탐욕법{
         var reserve : IntArray
     )
 
-    private fun generate():Info{
+    private fun generate(): Info {
         var n = rand(2,30)
         var lost = IntArray(rand(1,n))
         var reserve =IntArray(rand(1,n))
@@ -89,7 +88,7 @@ class 탐욕법{
         print("]")
 
 
-        return Info(n,lost,reserve)
+        return Info(n, lost, reserve)
     }
 
     fun solution(n:Int, lost: IntArray, reserve:IntArray): Int{

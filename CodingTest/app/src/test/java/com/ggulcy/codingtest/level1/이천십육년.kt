@@ -1,9 +1,6 @@
-package com.ggulcy.codingtest
+package com.ggulcy.codingtest.level1
 
 import org.junit.Test
-import java.text.SimpleDateFormat
-import java.util.*
-import kotlin.random.Random
 
 class 이천십육년 {
 

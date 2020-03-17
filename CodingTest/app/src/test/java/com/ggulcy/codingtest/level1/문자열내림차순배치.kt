@@ -1,8 +1,6 @@
-package com.ggulcy.codingtest
+package com.ggulcy.codingtest.level1
 
 import org.junit.Test
-
-import org.junit.Assert.*
 
 /**
  * Example local unit test, which will execute on the development machine (host).

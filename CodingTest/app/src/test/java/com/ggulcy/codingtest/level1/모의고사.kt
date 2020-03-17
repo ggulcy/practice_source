@@ -1,4 +1,4 @@
-package com.ggulcy.codingtest
+package com.ggulcy.codingtest.level1
 
 import org.junit.Test
 import kotlin.random.Random
