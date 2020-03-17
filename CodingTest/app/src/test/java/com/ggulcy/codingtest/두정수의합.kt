@@ -9,9 +9,20 @@ import org.junit.Assert.*
  *
  * See [testing documentation](http://d.android.com/tools/testing).
  */
-class ExampleUnitTest {
+class 두정수의합 {
     @Test
-    fun addition_isCorrect() {
-        assertEquals(4, 2 + 2)
+    fun main() {
+
+        var a = 5
+        var b= 3
+
+        var answer:Long = 0
+
+        if(a>=b) for(i in b..a) answer+=i
+        else for(i in a..b) answer+=i
+
+
+        println(answer)
+
     }
 }
