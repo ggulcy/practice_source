@@ -26,10 +26,15 @@ class 실패율카카오 {
                     if (it == i) cur++
                 }
             }
-            rates.put(i, cur.toDouble() / clear.toDouble())
+            if(clear != 0) rates.put(i, cur.toDouble() / clear.toDouble()) else rates.put(i,0.toDouble())
         }
 
+
+
 //        var result = rates.toList().sortedBy { (_, value) -> value}.reversed().toMap()
+
+
+
 
         var sorted = rates.toSortedMap().values.sorted().reversed()
 
@@ -43,6 +48,7 @@ class 실패율카카오 {
 
         answer.toIntArray()
 
+//        answer.forEach { println(it) }
 
     }
 }
