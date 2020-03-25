@@ -11,7 +11,19 @@ import org.junit.Assert.*
  */
 class ExampleUnitTest {
     @Test
-    fun addition_isCorrect() {
-        assertEquals(4, 2 + 2)
+    fun main() {
+        var list = mutableListOf<MyUnit>()
+        list.add(MyUnit(4,-1))
+        list.add(MyUnit(5,0))
+
+
+        var test = list.filter {
+            it.b != -1
+        }
+        test.forEach { println(it) }
+
+
     }
+
+    data class MyUnit(var a:Int , var b:Int)
 }
