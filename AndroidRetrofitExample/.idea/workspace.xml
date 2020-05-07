@@ -9,8 +9,71 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54be4e09-088c-4a41-b4d1-c75930abe125" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/build/" />
+    <list default="true" id="54be4e09-088c-4a41-b4d1-c75930abe125" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CodingTest/app/src/test/java/com/ggulcy/codingtest/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingTest/app/src/test/java/com/ggulcy/codingtest/Test1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingTest/app/src/test/java/com/ggulcy/codingtest/level1/완주하지못한선수.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingTest/app/src/test/java/com/ggulcy/codingtest/level1/전화번호목록.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingTest/app/src/test/java/com/ggulcy/codingtest/level2/더맵게.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingTest/app/src/test/java/com/ggulcy/codingtest/level2/라면공장.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingTest/app/src/test/java/com/ggulcy/codingtest/level2/위장.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingTest/app/src/test/java/com/ggulcy/codingtest/level2/주식가격.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingTest/app/src/test/java/com/ggulcy/codingtest/level2/프린터.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingTest/app/src/test/java/com/ggulcy/codingtest/level3/디스크컨트롤러.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingTest/app/src/test/java/com/ggulcy/codingtest/level3/베스트앨범.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingTest/app/src/test/java/com/ggulcy/codingtest/깊이너비우선탐색/타겟넘버.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingTest/app/src/test/java/com/ggulcy/codingtest/카카오엔터코테/Exam1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingTest/app/src/test/java/com/ggulcy/codingtest/카카오엔터코테/Exam2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingTest/app/src/test/java/com/ggulcy/codingtest/카카오엔터코테/Exam3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/androidTest/java/com/ggulcy/myapplication/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/java/com/ggulcy/myapplication/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/test/java/com/ggulcy/myapplication/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/lib/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/lib/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/lib/src/main/java/com/ggulcy/lib/MyClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodingTest/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodingTest/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodingTest/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodingTest/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodingTest/app/src/test/java/com/ggulcy/codingtest/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../CodingTest/app/src/test/java/com/ggulcy/codingtest/level2/쇠막대기.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodingTest/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../CodingTest/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodingTest/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CodingTest/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,44 +96,12 @@
       </state>
     </system>
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/app/build.gradle" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/ggulcy/androidretrofitexample/data/factory/net/ApiService.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/ggulcy/androidretrofitexample/domain/City.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/ggulcy/androidretrofitexample/domain/WeatherInfo.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/ggulcy/androidretrofitexample/data/factory/net/WeatherResponse.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_weather.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/ggulcy/androidretrofitexample/presentation/WeatherActivity.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/ggulcy/androidretrofitexample/presentation/WeatherListAdapter.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/ggulcy/androidretrofitexample/presentation/WeatherViewModel.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/ggulcy/androidretrofitexample/data/repository/CityRepository.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/ggulcy/androidretrofitexample/data/repository/WeatherRepository.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/ggulcy/androidretrofitexample/data/factory/net/NetworkModule.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      </list>
-    </option>
   </component>
   <component name="ProjectId" id="1bZorDGuhNfXPaV6B3KrO2uB1Aj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
-  </component>
-  <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Scope 'Problems'; set:Problems; class com.intellij.psi.search.scope.ProblemsScope" proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
-    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -182,154 +213,15 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-421" y="-1306" width="1734" height="707" extended-state="0" />
-    <layout>
-      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.3297491" />
-      <window_info id="Structure" order="2" side_tool="true" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info id="Build Variants" order="4" side_tool="true" />
-      <window_info id="Image Layers" order="5" />
-      <window_info id="Designer" order="6" />
-      <window_info id="Resources Explorer" order="7" />
-      <window_info id="Capture Tool" order="8" />
-      <window_info anchor="bottom" id="Run" order="0" />
-      <window_info anchor="bottom" id="Logcat" order="1" weight="0.32752612" />
-      <window_info anchor="bottom" id="TODO" order="2" weight="0.32938388" />
-      <window_info anchor="bottom" id="Debug" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="6" />
-      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.32984293" />
-      <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Find" order="9" />
-      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Gradle" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="right" id="Preview" order="4" />
-      <window_info anchor="right" id="Palette&#9;" order="5" />
-    </layout>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ggulcy/androidretrofitexample/presenter/MainActivity.kt" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ggulcy/androidretrofitexample/domain/WeatherInfo.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ggulcy/androidretrofitexample/domain/City.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_city_list.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-      <provider editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_weather.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/ggulcy/androidretrofitexample/presentation/WeatherViewModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ggulcy/androidretrofitexample/presentation/WeatherActivity.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="40" selection-start-line="40" selection-end-line="53" selection-end-column="5" />
-          <folding>
-            <element signature="e#56#371#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ggulcy/androidretrofitexample/presentation/WeatherListAdapter.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="817">
-          <caret line="48" column="31" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
-          <folding>
-            <element signature="e#56#325#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ggulcy/androidretrofitexample/presentation/WeatherViewModel.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ggulcy/androidretrofitexample/data/repository/CityRepository.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ggulcy/androidretrofitexample/data/repository/WeatherRepository.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="56" column="5" selection-start-line="19" selection-start-column="2" selection-end-line="56" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ggulcy/androidretrofitexample/data/factory/net/ApiService.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="7" selection-start-line="7" selection-end-line="19" selection-end-column="1" />
-          <folding>
-            <element signature="e#60#135#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ggulcy/androidretrofitexample/data/factory/net/NetworkModule.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="50" selection-start-line="50" selection-end-line="58" selection-end-column="5" />
-          <folding>
-            <element signature="e#59#361#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ggulcy/androidretrofitexample/data/factory/net/WeatherResponse.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
