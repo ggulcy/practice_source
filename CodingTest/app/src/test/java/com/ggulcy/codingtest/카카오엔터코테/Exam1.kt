@@ -19,9 +19,6 @@ class Exam1 {
 
     fun solution(arr:Array<Int>):Int{
 
-
-
-
 //        var cnt = 0
 //        for(i in arr.indices){
 //            if(i != arr.size-1) {
@@ -30,7 +27,7 @@ class Exam1 {
 //        }
 
 
-        var cnt = 0
+//        var cnt = 0
 //        for(i in arr.indices){
 //            for(j in cnt..i){
 //                println(j)
@@ -45,13 +42,13 @@ class Exam1 {
 //        }
 
 
-        for(i in 0..arr.size-2){
-            var temp = 0
-            for(j in 0..i) temp += arr[j]
-            for(k in i+1 until arr.size) temp -= arr[k]
-            if(temp > 0) cnt++
-        }
-        println(cnt)
+//        for(i in 0..arr.size-2){
+//            var temp = 0
+//            for(j in 0..i) temp += arr[j]
+//            for(k in i+1 until arr.size) temp -= arr[k]
+//            if(temp > 0) cnt++
+//        }
+//        println(cnt)
 
         return 0
     }
