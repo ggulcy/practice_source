@@ -42,4 +42,25 @@ dependencies {
     kapt "com.google.dagger:dagger-compiler:2.28"
     kapt "com.google.dagger:dagger-android-processor:2.28"
 
+
+
+//    //retrofit2
+//    api "com.squareup.retrofit2:retrofit:2.9.0"
+//    api "com.squareup.retrofit2:adapter-rxjava2:2.9.0"
+//    api "com.squareup.retrofit2:converter-gson:2.1.0"
+//    //Logging Network Calls
+//    implementation "com.squareup.okhttp3:logging-interceptor:3.6.0"
+//
+//    //rxkotlin2
+//    implementation "io.reactivex.rxjava2:rxkotlin:2.3.0"
+//    implementation 'io.reactivex.rxjava2:rxandroid:2.1.0'
+//
+//
+//    implementation "androidx.lifecycle:lifecycle-extensions:2.0.0"
+//    kapt 'android.arch.lifecycle:compiler:1.1.1'
+//
+//
+//    //rxbinding kotlin
+//    implementation "com.jakewharton.rxbinding3:rxbinding:3.1.0"
+
 }
