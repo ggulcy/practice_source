@@ -6,5 +6,5 @@ import dagger.Component
 
 @Component(modules = [ChefModule::class , KitchenModule::class])
 interface Component{
-    fun inject(activity: MainActivity)
+//    fun inject(activity: MainActivity)
 }

@@ -5,5 +5,5 @@ import dagger.Component
 
 @Component(modules = [BurgerModule::class])
 interface BurgerComponent {
-    fun inject(activity: MainActivity)
+//    fun inject(activity: MainActivity)
 }

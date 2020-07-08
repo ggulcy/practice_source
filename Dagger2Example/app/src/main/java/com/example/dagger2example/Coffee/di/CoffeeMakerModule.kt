@@ -7,6 +7,7 @@ import com.example.dagger2example.Coffee.model.Heater
 import com.example.dagger2example.Coffee.model.Pump
 import dagger.Module
 import dagger.Provides
+import javax.inject.Singleton
 
 
 @Module

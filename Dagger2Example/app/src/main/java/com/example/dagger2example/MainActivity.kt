@@ -2,18 +2,18 @@ package com.example.dagger2example
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.util.Log
-import com.example.dagger2example.Chef.Kitchen
-import com.example.dagger2example.Chef.di.DaggerComponent
-import com.example.dagger2example.Coffee.Injection
+import com.example.dagger2example.Cafe.DaggerCafeComponent
 import com.example.dagger2example.Coffee.di.DaggerCoffeeMakerComponent
-import javax.inject.Inject
 
 class MainActivity : AppCompatActivity() {
 //    @Inject lateinit var buger: Buger
 
 
-    @Inject lateinit var kitchen: Kitchen
+//    @Inject lateinit var kitchen: Kitchen
+
+//    @Inject
+//    lateinit var sf:SharedPreferences
+
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -35,11 +35,36 @@ class MainActivity : AppCompatActivity() {
 
 //        Injection.provideCoffeeMaker().brew()
 
-        var component = DaggerComponent.builder().build()
-        component.inject(this)
+//        var component = DaggerComponent.builder().build()
+//        component.inject(this)
+//
+//        if(kitchen.isOrder()) Log.d("D2Test","order successful")
+//        else Log.d("D2Test","order fail")
 
-        if(kitchen.isOrder()) Log.d("D2Test","order successful")
-        else Log.d("D2Test","order fail")
+//        (application as DemoApplication).component.inject(this)
+//
+//
+//        sf.edit()
+//            .putString("status","success")
+//            .apply()
+//
+//
+//
+//        var str:String? = sf.getString("status","null")
+//        Log.d("D2Test",str.toString())
+
+
+        var cafeComponent = DaggerCafeComponent.create()
+
+        var cafeInfo1 = cafeComponent.cafeInfo()
+        var cafeInfo2 = cafeComponent.cafeInfo()
+
+
+        var coffeeMaker1 = cafeComponent.coffeeMaker()
+        var coffeeMaker2 = cafeComponent.coffeeMaker()
+
+
+
 
     }
 }
